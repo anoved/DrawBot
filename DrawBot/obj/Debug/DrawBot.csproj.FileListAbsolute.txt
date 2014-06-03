@@ -1,1 +1,10 @@
 C:\Users\mikal\Desktop\DrawBot\DrawBot\bin\Debug\DrawBot.exe.config
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\bin\Debug\DrawBot.exe.config
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\bin\Debug\DrawBot.exe
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\bin\Debug\DrawBot.pdb
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\obj\Debug\DrawBot.csprojResolveAssemblyReference.cache
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\obj\Debug\DrawBot.Form1.resources
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\obj\Debug\DrawBot.Properties.Resources.resources
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\obj\Debug\DrawBot.csproj.GenerateResource.Cache
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\obj\Debug\DrawBot.exe
+C:\Users\Chris\dev\windows\DrawBot\DrawBot\obj\Debug\DrawBot.pdb
